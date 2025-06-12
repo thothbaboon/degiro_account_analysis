@@ -1,3 +1,2 @@
-data/Transactions.csv
-data/Portfolio.csv
+data/*.csv
 .venv
